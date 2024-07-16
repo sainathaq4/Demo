@@ -86,6 +86,7 @@ const materialShader = new THREE.ShaderMaterial({
         // uTexture: { value: flagTexture }
     }
 })
+// const plane = new THREE.Mesh(geometry, materialShader)
 mesh1.position.x = 2
 mesh2.position.x = - 2
 mesh3.position.x = 2
